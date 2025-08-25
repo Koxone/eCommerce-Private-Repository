@@ -1,4 +1,4 @@
-# eCommerce — Private Repository
+# TestigoMX — Private Repository
 
 This project is part of my professional portfolio.  
 The source code is not publicly available since **eCommerce is developed as a SaaS product** and the intellectual property is kept private for business reasons.
@@ -32,7 +32,7 @@ The project is currently deployed and accessible at:
 If you are a recruiter, potential client, or collaborator and would like to review the codebase, please contact me directly:
 
 - 📧 Email: admin@koxland.net
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/carlos-d-leon/)
+- 💼 LinkedIn: [linkedin.com/in/carlos-d-leon/](https://www.linkedin.com/in/carlos-d-leon/)
 
 Access to the repository can be granted on request.
 
